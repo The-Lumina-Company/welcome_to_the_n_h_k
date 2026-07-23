@@ -1,0 +1,357 @@
+[Script Info]
+Title: The-Lumina-Company - Welcome to the N.H.K.
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+YCbCr Matrix: TV.601
+LayoutResX: 1920
+LayoutResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000200E9,&H00000000,&HA0000000,-1,0,0,0,83,100,0,0,1,3.6,1.5075,2,270,270,61,1
+Style: Default-alt,Gandhi Sans,74,&H00FFFFFF,&H000200E9,&H002C2F6F,&HA0000000,-1,0,0,0,83,100,0,0,1,3.6,1.5075,2,270,270,61,1
+Style: signs,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,83,100,0,0,1,4.5,0,8,3,3,68,1
+Style: OP,Signika-Bold-Mot,90,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,4.005,0,2,54,54,68,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\pos(5096.629,67.5)\an9\fscx75\fscy75}{\c&H00D7FF&}► {\b1}Çeviri: {\b0\c&HFFFFFF&}Plopy\N{\c&HFF55AA&}► {\b1}Redaksiyon: {\b0\c&HFFFFFF&}shxd\N{\c&H55FF55&}► {\b1}Encode: {\b0\c&HFFFFFF&}shxd\N{\c&HFFFF55&}► {\b1}Upload: {\b0\c&HFFFFFF&}shxd\N\N{\c&HAAAAAA&\fscx65\fscy65}discord.gg/akzHAQ2Dh6
+Dialogue: 10,0:01:42.43,0:01:43.81,Default,,0,0,0,,{\i1}Hiç şüphe yok.
+Dialogue: 10,0:01:44.62,0:01:45.72,Default,,0,0,0,,{\i1}Bu...
+Dialogue: 10,0:01:46.31,0:01:47.54,Default,,0,0,0,,{\i1}...komplo!
+Dialogue: 10,0:01:57.29,0:01:59.23,Default,,0,0,0,,{\i1}Bu doğru, beni...
+Dialogue: 10,0:01:59.96,0:02:01.97,Default,,0,0,0,,{\i1}koca bir...
+Dialogue: 10,0:02:03.84,0:02:06.77,Default,,0,0,0,,{\i1}...akılalmaz derece...
+Dialogue: 10,0:02:09.01,0:02:10.54,Default,,0,0,0,,{\i1}...büyük bir...
+Dialogue: 10,0:02:12.90,0:02:15.38,Default,,0,0,0,,{\i1}...komploya dahil ettiler
+Dialogue: 10,0:03:35.73,0:03:38.77,Default,,0,0,0,,{\i1}Kafam son zamanlarda hiç yerinde değil.
+Dialogue: 10,0:03:44.10,0:03:46.81,Default,,0,0,0,,{\an8}Pururin! Pudipudipuding...
+Dialogue: 10,0:03:40.31,0:03:43.54,Default,,0,0,0,,{\i1}Belki de günde on altı saat uyuduğumdandır.
+Dialogue: 10,0:03:47.15,0:03:52.47,Default,,0,0,0,,{\i1}Yan odadan hâlâ şu şirin anime jenerik müziğini duyabiliyorum.
+Dialogue: 10,0:03:53.38,0:03:55.48,Default,,0,0,0,,{\i1}Bir aydır her gün böyle.
+Dialogue: 10,0:03:58.29,0:04:00.08,Default,,0,0,0,,{\i1}Evet, anladık tamam.
+Dialogue: 10,0:04:00.08,0:04:02.82,Default,,0,0,0,,{\i1}Nakaratı yüzlerce defa dinlemişimdir.
+Dialogue: 10,0:04:03.31,0:04:06.66,Default,,0,0,0,,{\i1}Ama var ya, hâlâ şu "Pururin" kısmını anlamadım.
+Dialogue: 10,0:04:06.66,0:04:09.33,Default,,0,0,0,,{\i1}Zıpır bir kız falan mı acaba?
+Dialogue: 10,0:04:08.83,0:04:13.20,Default,,0,0,0,,{\an8}Pudi pudi pudi pudi pudi Pururin!
+Dialogue: 10,0:04:09.78,0:04:11.97,Default,,0,0,0,,{\i1}Bu insan değil ki!
+Dialogue: 10,0:04:13.96,0:04:16.67,Default,,0,0,0,,{\i1}Ya da pudinge benzeyen bir kızdan mı bahsediyor acaba?
+Dialogue: 10,0:04:15.97,0:04:20.44,Default,,0,0,0,,{\an8}Ben Pururin! Pudipuding!
+Dialogue: 10,0:04:26.75,0:04:28.21,Default,,0,0,0,,Sessizlik!
+Dialogue: 10,0:04:30.67,0:04:31.71,Default,,0,0,0,,Kesin sesinizi!
+Dialogue: 10,0:04:39.83,0:04:42.39,Default,,0,0,0,,Burama kadar geldi! Artık buna katlanamayacağım!
+Dialogue: 10,0:04:42.39,0:04:46.38,Default,,0,0,0,,Bu şarkıdan nefret ediyorum! Biraz daha dinlersem kafayı yiyeceğim!
+Dialogue: 10,0:04:46.38,0:04:47.77,Default,,0,0,0,,Gidip şikayet edeceğim!
+Dialogue: 10,0:04:50.46,0:04:52.12,Default,,0,0,0,,{\i1}Aynen, bir şeycik yok.
+Dialogue: 10,0:04:52.12,0:04:53.43,Default,,0,0,0,,{\i1}Plan basit.
+Dialogue: 10,0:04:54.00,0:04:57.92,Default,,0,0,0,,{\i1}Sadece kapıyı açıp yandaki daireye birkaç adım atmam gerek.
+Dialogue: 10,0:04:58.88,0:05:01.88,Default,,0,0,0,,{\i1}Sonra kapıyı çalacağım ve...
+Dialogue: 10,0:05:02.25,0:05:04.32,Default,,0,0,0,,Kodumun anime otakusu be! Kapa şu boku!
+Dialogue: 10,0:05:04.32,0:05:07.23,Default,,0,0,0,,{\i1}Gününü göstereceğim, aynen öyle.
+Dialogue: 10,0:05:07.23,0:05:08.82,Default,,0,0,0,,{\i1}Bu kadar.
+Dialogue: 10,0:05:09.46,0:05:12.45,Default,,0,0,0,,{\i1}Yapmam gereken bu sadece!
+Dialogue: 10,0:05:14.00,0:05:15.70,Default,,0,0,0,,Bu adamın sorunları falan var herhalde.
+Dialogue: 10,0:05:17.55,0:05:19.70,Default,,0,0,0,,{\i1}Sesler duyuyorum.
+Dialogue: 10,0:05:20.87,0:05:22.92,Default,,0,0,0,,Hiç utanmıyor mu be?
+Dialogue: 10,0:05:22.92,0:05:24.77,Default,,0,0,0,,Ürkünç şey!
+Dialogue: 10,0:05:28.66,0:05:30.01,Default,,0,0,0,,Ne aptalca.
+Dialogue: 10,0:05:30.01,0:05:32.35,Default,,0,0,0,,Keşke mahallede boş beleş gezmese.
+Dialogue: 10,0:05:32.35,0:05:33.73,Default,,0,0,0,,Iyyyy! Ucubeye bak!
+Dialogue: 10,0:05:33.73,0:05:34.95,Default,,0,0,0,,Ne iğrenç!
+Dialogue: 10,0:05:34.95,0:05:36.95,Default,,0,0,0,,Amanın!
+Dialogue: 10,0:05:37.63,0:05:39.95,Default,,0,0,0,,{\i1}Üniversitede ilk yılımın yazıydı.
+Dialogue: 10,0:05:41.13,0:05:45.68,Default,,0,0,0,,{\i1}Sıcak bir yaz günü okula gidiyordum.
+Dialogue: 10,0:05:57.11,0:06:01.18,Default,,0,0,0,,{\i1}Her şeyden kaçar gibi apartmanıma koştum.
+Dialogue: 10,0:06:03.54,0:06:07.71,Default,,0,0,0,,{\i1}Ve o günden sonra dışarı çıkmayı bıraktım.
+Dialogue: 10,0:06:15.11,0:06:16.74,Default,,0,0,0,,Bahçivanya'ya hoş geldiniz.
+Dialogue: 10,0:06:16.74,0:06:20.23,Default,,0,0,0,,Bugün, altınbaşak cinsinden bahsedeceğiz.
+Dialogue: 10,0:06:42.28,0:06:43.72,Default,,0,0,0,,Komplo...
+Dialogue: 10,0:06:44.11,0:06:45.51,Default,,0,0,0,,{\alpha&HFF&}Komplo... {\alpha&H00&}Komplo... {\alpha&HFF&}Komplo...
+Dialogue: 10,0:06:45.51,0:06:46.62,Default,,0,0,0,,Komplo... Komplo... {\alpha&HFF&}Komplo...
+Dialogue: 10,0:06:46.62,0:06:47.77,Default,,0,0,0,,Komplo... Komplo... Komplo...
+Dialogue: 10,0:06:47.77,0:07:03.34,Default,,0,0,0,,{\an8}Komplo... Komplo...
+Dialogue: 10,0:07:04.75,0:07:08.83,Default,,0,0,0,,{\an8}Komplo... Komplo...
+Dialogue: 10,0:06:53.78,0:06:58.73,Default,,0,0,0,,Pudipudipuding Pururin
+Dialogue: 10,0:06:58.73,0:07:03.75,Default,,0,0,0,,Pudipudipuding Pururin
+Dialogue: 10,0:07:03.75,0:07:07.64,Default,,0,0,0,,Pudipudipuding Pururin
+Dialogue: 10,0:07:07.64,0:07:08.83,Default,,0,0,0,,{\i1}Komplo?!
+Dialogue: 10,0:07:09.60,0:07:12.31,Default,,0,0,0,,{\an8}Bu dünya komplolarla doludur.
+Dialogue: 10,0:07:12.77,0:07:16.03,Default,,0,0,0,,{\an8}Kolombiya faciası Venüslülerin komplosuydu.
+Dialogue: 10,0:07:13.15,0:07:16.03,Default,,0,0,0,,{\i1}Aynen, o da öyle diyordu.
+Dialogue: 10,0:07:16.03,0:07:18.57,Default,,0,0,0,,{\an8}Kahverengi düzleştirilmiş saçlar da güzelliğin komplosudur.
+Dialogue: 10,0:07:16.58,0:07:20.67,Default,,0,0,0,,{\i1}Toplum komplo teorilerinden gerçek olduklarına hiç şüphe yokmuş gibi bahseder.
+Dialogue: 10,0:07:18.57,0:07:21.39,Default,,0,0,0,,{\an8}Sedir poleni mendil şirketlerinin komplosudur.
+Dialogue: 10,0:07:21.70,0:07:23.57,Default,,0,0,0,,Biliyor musun{*}, Senpai{*}?
+Dialogue: 10,0:07:23.57,0:07:27.75,Default,,0,0,0,,Şu meşhur "komplo teorilerinin" yüzde doksan dokuzu yanılgılardan ibaret.
+Dialogue: 10,0:07:27.75,0:07:31.19,Default,,0,0,0,,Ya da birinin sıktığı kolpalar. \NYani alayı zırva.
+Dialogue: 10,0:07:31.77,0:07:35.43,Default,,0,0,0,,Yani yüzde biri {\i1}gerçek{\i0} mi?
+Dialogue: 10,0:07:36.77,0:07:38.90,Default,,0,0,0,,{\i1}Genç bir öğrencinin zorbalandığını görmüştüm.
+Dialogue: 10,0:07:38.21,0:07:39.46,Default-alt,,0,0,0,,Kır götünü!
+Dialogue: 10,0:07:38.90,0:07:40.66,Default,,0,0,0,,{\i1}Bizim ortaokulumuza giden bir öğrenciymiş.
+Dialogue: 10,0:07:41.15,0:07:44.69,Default,,0,0,0,,{\i1}Onun önünde hava atmak istemiştim.
+Dialogue: 10,0:07:44.69,0:07:46.18,Default,,0,0,0,,{\an8}Komplo...
+Dialogue: 10,0:07:44.69,0:07:46.16,Default,,0,0,0,,Hey, kesin şunu!
+Dialogue: 10,0:07:46.18,0:07:48.60,Default,,0,0,0,,{\an8}Komplo... Komplo...
+Dialogue: 10,0:07:50.13,0:07:51.96,Default,,0,0,0,,{\i1}Hey, bir şey desene Senpai.
+Dialogue: 10,0:07:52.51,0:07:55.44,Default,,0,0,0,,{\i1}Bu da mı bir tür komplo?
+Dialogue: 10,0:07:58.79,0:07:59.99,Default,,0,0,0,,Susun artık!
+Dialogue: 10,0:08:00.41,0:08:01.96,Default,,0,0,0,,Ders hâlâ bitmedi!
+Dialogue: 10,0:08:01.96,0:08:03.45,Default,,0,0,0,,Sessizlik lütfen!
+Dialogue: 10,0:08:03.45,0:08:05.64,Default,,0,0,0,,En çok ses senden çıkıyor!
+Dialogue: 10,0:08:05.64,0:08:06.80,Default,,0,0,0,,Sato{*}-kun{*}!
+Dialogue: 10,0:08:07.13,0:08:09.80,Default,,0,0,0,,Bir şey söylemek istiyorsan elini kaldır!
+Dialogue: 10,0:08:10.61,0:08:12.81,Default,,0,0,0,,{\i1}Bu da mı bir komplo?
+Dialogue: 10,0:08:13.50,0:08:16.04,Default,,0,0,0,,{\i1}Bu da bir komplo...
+Dialogue: 10,0:08:16.44,0:08:17.61,Default,,0,0,0,,{\i1}Bunlar da...
+Dialogue: 10,0:08:18.05,0:08:21.28,Default,,0,0,0,,{\i1}Bunlar da... Bunlar da... Bunlar da...
+Dialogue: 10,0:08:21.72,0:08:22.92,Default,,0,0,0,,{\i1}Bu da!
+Dialogue: 10,0:08:23.26,0:08:26.26,Default,,0,0,0,,{\i1}Hepsi komplo mu?
+Dialogue: 10,0:08:37.17,0:08:38.36,Default,,0,0,0,,{\an8}Komplo! {\alpha&HFF&}Komplo! Komplo!
+Dialogue: 10,0:08:38.36,0:08:39.41,Default,,0,0,0,,{\an8}Komplo! {\alpha&HFF&}Komplo! {\alpha&H00&}Komplo!
+Dialogue: 10,0:08:39.41,0:08:42.27,Default,,0,0,0,,{\an8}Komplo! Komplo! Komplo!
+Dialogue: 10,0:08:41.31,0:08:42.27,Default,,0,0,0,,{\i1}Anladım!
+Dialogue: 10,0:08:42.53,0:08:48.01,Default,,0,0,0,,{\i1}Kendimi bir komploya dahil etmişim!\N Nadide, yüzde birden de az, safkan!
+Dialogue: 10,0:08:50.02,0:08:51.61,Default,,0,0,0,,Tebrikler, Sato{*}-kun{*}!
+Dialogue: 10,0:08:51.61,0:08:53.94,Default,,0,0,0,,Sonunda farkına vardın, ha?
+Dialogue: 10,0:08:53.94,0:08:54.88,Default,,0,0,0,,Evet...
+Dialogue: 10,0:08:54.88,0:08:57.43,Default,,0,0,0,,Hayatında sürekli kötü giden şeyler
+Dialogue: 10,0:08:57.43,0:09:01.14,Default,,0,0,0,,seni toplumdan uzaklaştırmak için bir komploydu!
+Dialogue: 10,0:09:01.14,0:09:03.67,Default,,0,0,0,,Ama kim böyle bir komployu kura ki?
+Dialogue: 10,0:09:06.61,0:09:08.41,Default,,0,0,0,,Komplo havadurumu alarmı!
+Dialogue: 10,0:09:08.41,0:09:10.47,Default,,0,0,0,,Sorun ne, TV?
+Dialogue: 10,0:09:11.18,0:09:12.58,Default,,0,0,0,,Bu N.H.K.!
+Dialogue: 10,0:09:12.58,0:09:15.57,Default,,0,0,0,,Şu şeytani gizli kuruluş N.H.K. bize saldırıyor!
+Dialogue: 10,0:09:16.25,0:09:17.80,Default,,0,0,0,,{\i1}N.H.K. mı?
+Dialogue: 10,0:09:25.65,0:09:26.61,Default,,0,0,0,,{\i1}Anladım!
+Dialogue: 10,0:09:27.44,0:09:31.32,Default,,0,0,0,,{\i1}Bu kadar basit bir şeyi şu ana kadar nasıl anlayamadım?
+Dialogue: 10,0:09:38.05,0:09:40.39,Default,,0,0,0,,{\i1}Anime ve otaku bir elin iki parmağı gibidir.
+Dialogue: 10,0:09:40.39,0:09:43.17,Default,,0,0,0,,{\i1}Ve otakucular anti-sosyallerdir.
+Dialogue: 10,0:09:43.69,0:09:46.71,Default,,0,0,0,,{\i1}Böyle insanlar da eninde sonunda toplumda dışlanırlar.
+Dialogue: 10,0:09:43.17,0:09:47.63,Default,,0,0,0,,{\an8}Ben Pururin, sihirli bir gezegenden gelen sihirli bir uzaylıyım!
+Dialogue: 10,0:09:47.91,0:09:48.90,Default,,0,0,0,,{\i1}Diğer bir deyişle
+Dialogue: 10,0:09:49.32,0:09:53.86,Default,,0,0,0,,{\i1}N.H.K. otakulara ilginç animeler göstererek seri üretime geçmişler,
+Dialogue: 10,0:09:53.86,0:09:57.61,Default,,0,0,0,,{\i1}devasa bir NEET salgını yaratmışlar ya!
+Dialogue: 10,0:09:57.61,0:10:00.35,Default,,0,0,0,,{\i1}Yani N.H.K....
+Dialogue: 10,0:10:05.95,0:10:06.76,Default,,0,0,0,,Nihon...
+Dialogue: 10,0:10:06.76,0:10:07.51,Default,,0,0,0,,Hikikomori...
+Dialogue: 10,0:10:07.51,0:10:08.35,Default,,0,0,0,,Kyokai!
+Dialogue: 10,0:10:05.95,0:10:06.76,Default,,0,0,0,,{\fs51.975\shad1.057\bord2.52}JapoNya
+Dialogue: 10,0:10:06.76,0:10:07.51,Default,,0,0,0,,{\fs51.975\shad1.057\bord2.52}Sosyal-FesHediliş
+Dialogue: 10,0:10:07.51,0:10:08.35,Default,,0,0,0,,{\fs51.975\shad1.057\bord2.52}Kurumu
+Dialogue: 10,0:10:09.36,0:10:11.57,Default,,0,0,0,,N.H.K.'na hoş geldiniz!
+Dialogue: 10,0:10:12.09,0:10:16.97,Default,,0,0,0,,Ben ki N.H.K.'nın komplolarını bulan adam:
+Dialogue: 10,0:10:16.97,0:10:19.25,Default,,0,0,0,,Sato Tatsuhiro, 22 yaşındayım!
+Dialogue: 10,0:10:19.92,0:10:22.47,Default,,0,0,0,,Kendimi üç yıl önce toplumdan uzaklaştırdım...
+Dialogue: 10,0:10:22.47,0:10:25.00,Default,,0,0,0,,Neredeyse dört yıl olacak!
+Dialogue: 10,0:10:26.51,0:10:30.34,Default,,0,0,0,,{\i1}Eski karate ustaları da taşları dahi kıran tekniklerini
+Dialogue: 10,0:10:30.34,0:10:32.88,Default,,0,0,0,,{\i1}geliştirebilmek için dağda inzivaya çekilirdi.
+Dialogue: 10,0:10:34.38,0:10:37.31,Default,,0,0,0,,{\i1}Eğer gücümü kazanmamın tek yolu inzivaya çekilmemse
+Dialogue: 10,0:10:37.31,0:10:42.06,Default,,0,0,0,,{\i1}Şimdiden bu bira şişesini kıracak mertliğe ulaşmış olmam gerek.
+Dialogue: 10,0:10:45.85,0:10:48.96,Default,,0,0,0,,Bira şişesini kim kırmıştı ki?
+Dialogue: 10,0:10:49.58,0:10:50.45,Default,,0,0,0,,Ben!
+Dialogue: 10,0:10:55.31,0:10:58.33,Default,,0,0,0,,Acıyor lan! Acıyor! Acıyor! \Nİlk yardım çantası nerde? Ayy!
+Dialogue: 10,0:10:58.33,0:11:01.67,Default,,0,0,0,,Ha, ondan önce şu cam parçaları için de bir şey yapsam iyi olur!
+Dialogue: 10,0:11:01.67,0:11:03.83,Default,,0,0,0,,Hadi ama, sakin ol!
+Dialogue: 10,0:11:03.83,0:11:07.01,Default,,0,0,0,,Önce şu camları toplamalı\Nardından bu yaraya bakmalıyım...
+Dialogue: 10,0:11:07.01,0:11:09.38,Default,,0,0,0,,Defol! Şu an çok meşgulüm!
+Dialogue: 10,0:11:09.92,0:11:11.71,Default,,0,0,0,,Ben bir NEET'im, biliyorsun di'mi!
+Dialogue: 10,0:11:11.71,0:11:14.31,Default,,0,0,0,,Bir NEET'in kapısını açmasını sağlaman için bundan fazlası gerek—
+Dialogue: 10,0:11:15.01,0:11:17.91,Default,,0,0,0,,Bekle, bu elektrik faturasını toplayan eleman mı?
+Dialogue: 10,0:11:17.91,0:11:20.42,Default,,0,0,0,,Kahretsin, bayağıdır bunlara da para göndermediydim.
+Dialogue: 10,0:11:20.75,0:11:23.14,Default,,0,0,0,,Elektriğimi keserlerse,
+Dialogue: 10,0:11:23.14,0:11:26.01,Default,,0,0,0,,NEET hayatımı rahatça yaşayamayacağım!
+Dialogue: 10,0:11:26.01,0:11:29.80,Default,,0,0,0,,Bu büyük bir sorun!
+Dialogue: 10,0:11:31.04,0:11:32.48,Default,,0,0,0,,E-Evet!
+Dialogue: 10,0:11:36.29,0:11:38.63,Default,,0,0,0,,Hay aksi, kesin beni duydu!
+Dialogue: 10,0:11:38.63,0:11:39.94,Default,,0,0,0,,Geldim!
+Dialogue: 10,0:11:45.83,0:11:46.56,Default,,0,0,0,,Ha?
+Dialogue: 10,0:12:18.37,0:12:20.62,Default,,0,0,0,,Ha! Burada olduğunu bilmiyordum!
+Dialogue: 10,0:12:20.97,0:12:23.69,Default,,0,0,0,,Rahatsız ettiysek kusura bakmayın ama—
+Dialogue: 10,0:12:25.37,0:12:28.18,Default,,0,0,0,,S-Sen iyi misin? Yüzün kanıyor!
+Dialogue: 10,0:12:30.43,0:12:33.94,Default,,0,0,0,,B-Be-Ben iyiyim.
+Dialogue: 10,0:12:35.10,0:12:36.44,Default,,0,0,0,,Peki...
+Dialogue: 10,0:12:36.44,0:12:41.80,Default,,0,0,0,,He, bu broşürlerden ücretsiz olarak dağıtıyoruz da.
+Dialogue: 10,0:12:41.80,0:12:42.37,Default,,0,0,0,,Ha?
+Dialogue: 10,0:12:44.71,0:12:48.58,Default,,0,0,0,,Bu ayın özel makalesi. Daha önce hiç NEET denen bir şey duydun mu?
+Dialogue: 10,0:12:48.84,0:12:53.30,Default,,0,0,0,,Kendini toplumdan soyutlayan insanlar hakkında; okula, işe falan.
+Dialogue: 10,0:12:53.30,0:12:56.36,Default,,0,0,0,,{\an8}Bu aralar ciddi bir toplumsal sorun...
+Dialogue: 10,0:12:54.41,0:12:59.01,Default,,0,0,0,,{\i1}Bu hanımefendi benim kendimi eve kapattığımı mı biliyor?
+Dialogue: 10,0:12:59.73,0:13:03.99,Default,,0,0,0,,{\i1}Bu kasabada bilinen bir NEET olma ihtimalim var mı?
+Dialogue: 10,0:13:03.99,0:13:05.15,Default,,0,0,0,,{\i1}Bu yüzden mi?!
+Dialogue: 10,0:13:07.70,0:13:09.56,Default,,0,0,0,,İlginizi çeker mi acaba?
+Dialogue: 10,0:13:09.56,0:13:13.37,Default,,0,0,0,,Çekiyor ise lütfen bir bakın...
+Dialogue: 10,0:13:13.37,0:13:16.57,Default,,0,0,0,,Ben mi? Bir NEET mi?! Yok daha neler!
+Dialogue: 10,0:13:16.57,0:13:20.93,Default,,0,0,0,,Peki, neredeyse bir yıldır kimseyle konuşmamış olabilirim.
+Dialogue: 10,0:13:20.93,0:13:24.63,Default,,0,0,0,,İnsanlarla uğraşmak istemiyor, üniversiteyi bırakmış işsiz duruyor olabilirim...
+Dialogue: 10,0:13:24.63,0:13:27.33,Default,,0,0,0,,Bunun dışında gelecek için de hiç umudum olmayabilir...
+Dialogue: 10,0:13:27.33,0:13:28.68,Default,,0,0,0,,{\i1}bu pek de beni anlatmıyor ki!{\i0}
+Dialogue: 10,0:13:28.68,0:13:30.39,Default,,0,0,0,,"İyi misin?"
+Dialogue: 10,0:13:30.39,0:13:32.73,Default,,0,0,0,,Elbette, iyiyim, çok teşekkür ederim!
+Dialogue: 10,0:13:32.73,0:13:35.39,Default,,0,0,0,,Ben... Ben...
+Dialogue: 10,0:13:38.45,0:13:42.65,Default,,0,0,0,,Sadece dua ederek sosyal anksiyete yenilebilseydi kimse bu acıyı çekmezdi.
+Dialogue: 10,0:13:42.65,0:13:44.97,Default,,0,0,0,,Siz ne anlarsınız ki,
+Dialogue: 10,0:13:44.97,0:13:47.19,Default,,0,0,0,,daha ben kendim anlayamıyorum!
+Dialogue: 10,0:13:48.25,0:13:50.71,Default,,0,0,0,,Asla anlayamazsınız!
+Dialogue: 10,0:14:01.71,0:14:04.53,Default,,0,0,0,,Misaki{*}-chan{*}! Hadi, gidelim.
+Dialogue: 10,0:14:05.98,0:14:07.59,Default,,0,0,0,,N'apıyorsun?
+Dialogue: 10,0:14:20.91,0:14:22.67,Default,,0,0,0,,Misaki{*}-chan{*}!
+Dialogue: 10,0:14:34.01,0:14:38.16,Default,,0,0,0,,{\i1}Gerçek şu ki bu konu hakkında ne yapabileceğimi adım gibi biliyorum.
+Dialogue: 10,0:14:38.64,0:14:42.71,Default,,0,0,0,,{\i1}Dışarı çıkıp bir yarı-zamanlı iş falan bulmam lazım.
+Dialogue: 10,0:14:43.16,0:14:46.85,Default,,0,0,0,,{\i1}Ve bunu yapabilirsem burada yaşayan bir NEET olduğum söylentisi yalan olur.
+Dialogue: 10,0:14:49.94,0:14:55.54,Default,,0,0,0,,{\i1}Sonra şu kız da tatil günüm diye evde olduğumu düşünür.
+Dialogue: 10,0:14:58.08,0:14:59.52,Default,,0,0,0,,Misaki...
+Dialogue: 10,0:15:10.17,0:15:15.28,Default,,0,0,0,,Mendilim var, cebimde harçlığım var, \Ncüzdanım ve kimliğim.
+Dialogue: 10,0:15:24.14,0:15:29.91,Default,,0,0,0,,Şey aradığınızı duymuştum... \NŞey aradığınızı duymuştum...
+Dialogue: 10,0:15:30.29,0:15:33.09,Default,,0,0,0,,Şey aradığınızı duymuştum...
+Dialogue: 10,0:15:35.15,0:15:38.15,Default,,0,0,0,,Şey aradığınızı duymuştum...
+Dialogue: 10,0:15:40.23,0:15:45.38,Default,,0,0,0,,Şey aradığınızı duymuştum... \NŞey aradığınızı duymuştum...
+Dialogue: 10,0:15:45.38,0:15:48.23,Default,,0,0,0,,Şey aradığınızı duymuştum...
+Dialogue: 10,0:15:51.23,0:15:54.10,Default,,0,0,0,,Şey aradığınızı duymuştum...
+Dialogue: 10,0:15:55.08,0:16:01.67,Default,,0,0,0,,Şey aradığınızı duymuştum... \NŞey aradığınızı duymuştum...
+Dialogue: 10,0:16:01.67,0:16:03.91,signs,,0,0,0,,Manga İnternet Kafe
+Dialogue: 10,0:16:06.31,0:16:08.41,signs,,0,0,0,,Yardım aranıyor, Manga Cafe\NSaatliği 800 Yen
+Dialogue: 10,0:16:09.18,0:16:12.92,Default,,0,0,0,,Şey aradığınızı duymuştum.
+Dialogue: 10,0:16:13.71,0:16:15.05,Default,,0,0,0,,Tamamdır!
+Dialogue: 10,0:16:18.35,0:16:20.96,Default,,0,0,0,,Pardon, ım...
+Dialogue: 10,0:16:20.96,0:16:24.34,Default,,0,0,0,,Şey aradığınızı duymuştum da... siz...
+Dialogue: 10,0:16:27.90,0:16:28.70,Default,,0,0,0,,...siz...
+Dialogue: 10,0:16:30.32,0:16:31.50,Default,,0,0,0,,Siz?
+Dialogue: 10,0:16:32.80,0:16:35.37,Default,,0,0,0,,"Aradığımızı duymuştum..." neyi aradığımızı?
+Dialogue: 10,0:16:39.29,0:16:42.08,Default,,0,0,0,,"Aradığımızı duymuştum..." neyi aradığımızı?
+Dialogue: 10,0:16:43.07,0:16:44.58,Default,,0,0,0,,S-S-Siz...
+Dialogue: 10,0:16:45.32,0:16:47.86,Default,,0,0,0,,Acaba motorsikletleri sever misiniz? Ben bayılırım!
+Dialogue: 10,0:16:47.86,0:16:49.16,Default,,0,0,0,,Rüzgarla bir olursun böyle.
+Dialogue: 10,0:16:49.16,0:16:51.33,Default,,0,0,0,,Ah o motorun sesi gibisi de yoktur!
+Dialogue: 10,0:16:51.33,0:16:53.36,Default,,0,0,0,,Bir ara birlikte bi' sürüşe mi çıksak? Ne dersin?
+Dialogue: 10,0:16:53.76,0:16:59.70,Default,,0,0,0,,Ama dürüst olmam gerekirse daha önce hiç motor sürmedim! Aynen!
+Dialogue: 10,0:16:59.70,0:17:01.09,Default,,0,0,0,,Eee...
+Dialogue: 10,0:17:01.75,0:17:02.80,Default,,0,0,0,,Tamamdır, bay.
+Dialogue: 10,0:17:05.94,0:17:07.94,Default,,0,0,0,,Kendimi asacağım!
+Dialogue: 10,0:17:11.84,0:17:16.15,Default,,0,0,0,,{\i1}Ama kendimi öldürmenin bir şeye yaramayacağını zaten biliyorum.
+Dialogue: 10,0:17:16.73,0:17:19.64,Default,,0,0,0,,{\i1}Çünkü öylece ölürüm
+Dialogue: 10,0:17:19.64,0:17:21.95,Default,,0,0,0,,{\i1}ve daha ölmeden amacımı yitirmiş olurum.
+Dialogue: 10,0:17:23.50,0:17:26.99,Default,,0,0,0,,Neden tüm dünyadaki kızlar arasından o, oradaydı?
+Dialogue: 10,0:17:29.63,0:17:33.03,Default,,0,0,0,,{\i1}Tanrı'nın hizmetçisi hiç yarı-zamanlı işte çalışır mı yahu?
+Dialogue: 10,0:17:34.32,0:17:39.69,Default,,0,0,0,,{\i1}Şey, sanırım Tanrı'nın hizmetçilerinin bile paraya ihtiyacı oluyor.
+Dialogue: 10,0:17:39.69,0:17:42.04,Default,,0,0,0,,{\i1}Sonuçta, o da etten, kandan bir varlık.
+Dialogue: 10,0:17:42.04,0:17:45.01,Default,,0,0,0,,{\i1}Bu doğru, o et ve kandan ibaret.
+Dialogue: 10,0:17:45.48,0:17:48.18,Default,,0,0,0,,Yapmamalıyım! Bunu yapmamalıyım!
+Dialogue: 10,0:17:48.18,0:17:49.35,Default,,0,0,0,,Hayır!
+Dialogue: 10,0:17:49.76,0:17:50.85,Default,,0,0,0,,Yapmamalıyım!
+Dialogue: 10,0:17:52.73,0:17:55.55,Default,,0,0,0,,Tanrı beni izliyor!
+Dialogue: 10,0:18:10.63,0:18:15.17,Default,,3,3,0,,{\i1}Şimdi düşündüm de bugünlerde elektrikçi firmanın evime fatura kesmek için
+Dialogue: 10,0:18:15.17,0:18:17.13,Default,,0,0,0,,{\i1}birini göndermesinin imkânı yok.
+Dialogue: 10,0:18:17.69,0:18:23.08,Default,,0,0,0,,{\i1}Bu yüzden bunu görmezden gelmek hayatımı gıdım etkilemez.
+Dialogue: 10,0:18:23.08,0:18:25.42,Default,,0,0,0,,{\i1}Hatta, görmezden gelmeliyim de.
+Dialogue: 10,0:18:25.42,0:18:29.11,Default,,0,0,0,,{\i1}Çünkü dün öylece kapıyı açıverdim,
+Dialogue: 10,0:18:29.11,0:18:31.52,Default,,0,0,0,,{\i1}Ben... ben...
+Dialogue: 10,0:18:51.65,0:18:52.91,Default,,0,0,0,,O kız...
+Dialogue: 10,0:18:57.95,0:18:59.05,signs,,0,0,0,,Özgeçmişinizi düşürdünüz
+Dialogue: 10,0:19:02.03,0:19:04.56,Default,,0,0,0,,Bunu bırakmak için buraya kadar geldi mi?
+Dialogue: 10,0:19:05.85,0:19:07.55,Default,,0,0,0,,{\i1}{*}Sato Tatsuhiro-dono{*Mr. Sato Tatsuhiro},
+Dialogue: 10,0:19:08.25,0:19:11.86,Default,,0,0,0,,{\i1}projem için seçildin.
+Dialogue: 10,0:19:12.56,0:19:17.65,Default,,0,0,0,,{\i1}Bu yüzden lütfen bu gece saat 9:00'da 4. Cadde'deki Mita Park'ına gel.
+Dialogue: 10,0:19:18.19,0:19:19.78,Default,,0,0,0,,{\i1}Nakahara Misaki.
+Dialogue: 10,0:19:23.29,0:19:26.48,Default,,0,0,0,,{\i1}Eğer bunu beni dine alıştırmaya çalışıyorsa cidden berbat bir iş çıkarıyor.
+Dialogue: 10,0:19:27.15,0:19:30.30,Default,,0,0,0,,{\i1}Birilerinin buna inanacağını düşünmek zor.
+Dialogue: 10,0:19:30.30,0:19:33.15,Default,,0,0,0,,{\i1}Ama aynı zamanda da adamı böyle kandırırlar
+Dialogue: 10,0:19:33.79,0:19:36.93,Default,,0,0,0,,{\i1}Genç erkekleri tuzağa çekmek için genç kızları kullanırlar...
+Dialogue: 10,0:19:36.93,0:19:38.66,Default,,0,0,0,,{\i1}Eski bir numara.
+Dialogue: 10,0:19:39.33,0:19:41.52,Default,,0,0,0,,{\i1}Hayat kadını falan olmalı.
+Dialogue: 10,0:19:42.27,0:19:44.85,Default,,0,0,0,,{\i1}Böyle bir kıza nasıl düşerim ki hem?
+Dialogue: 10,0:19:47.82,0:19:49.30,Default,,0,0,0,,Aaa! Sato{*}-kun{*}!
+Dialogue: 10,0:19:49.89,0:19:52.02,Default,,0,0,0,,Gel bana, Sato{*}-kun{*}.
+Dialogue: 10,0:19:54.93,0:19:56.35,Default,,0,0,0,,Bu saçmalık!
+Dialogue: 10,0:20:02.29,0:20:06.38,Default,,0,0,0,,{\i1}Lütfen bu gece saat 9:00'da 4. Cadde'deki Mita Park'ına gel.
+Dialogue: 10,0:20:07.32,0:20:12.39,Default,,0,0,0,,{\i1}Aslında, bu oda dışında kafamı dinleyebildiğim şu park var.
+Dialogue: 10,0:20:16.61,0:20:21.03,Default,,0,0,0,,{\i1}Ve ben de zaten bu gece kafa dinlemeye parka gitmeyi düşünüyordum.
+Dialogue: 10,0:20:24.96,0:20:30.91,Default,,0,0,0,,{\i1}Böyle absürt bir mektubun planlarımı bozmasına izin veremem.
+Dialogue: 10,0:20:33.27,0:20:34.21,Default,,0,0,0,,{\i1}Aynen.
+Dialogue: 10,0:20:34.91,0:20:38.23,Default,,0,0,0,,{\i1}Zaten parka gitmeyi planlıyordum ki!
+Dialogue: 10,0:20:50.11,0:20:54.10,Default,,0,0,0,,{\i1}Tüm bunların içinde büyük bir ihtimali gözden kaçırdığımı fark ediyorum.
+Dialogue: 10,0:20:54.64,0:20:58.14,Default,,0,0,0,,{\i1}Mektubun bir şaka olması olası.
+Dialogue: 10,0:20:59.23,0:21:04.75,Default,,0,0,0,,{\i1}Eğer bu gerçekse burada durmam beni harbi bir soytarı yapar.
+Dialogue: 10,0:21:08.25,0:21:09.75,Default,,0,0,0,,Ne saçmalıyorum ben ya?!
+Dialogue: 10,0:21:09.75,0:21:12.85,Default,,0,0,0,,Zaten buraya gelmeyi planlıyordum!
+Dialogue: 10,0:21:12.85,0:21:15.54,Default,,0,0,0,,Bugün öğlenleyin neden kaçtın?
+Dialogue: 10,0:21:21.59,0:21:25.46,Default,,0,0,0,,Eleman açısından sıkışığız diye seni hemen işe alacaktım zaten.
+Dialogue: 10,0:21:25.99,0:21:29.47,Default,,0,0,0,,Dışarı çıkıp çalışmaktan mı korktun?
+Dialogue: 10,0:21:29.75,0:21:31.20,Default,,0,0,0,,Eve kapanıktın diye?
+Dialogue: 10,0:21:33.17,0:21:35.35,Default,,0,0,0,,Ama eminim iyi olacaksın.
+Dialogue: 10,0:21:35.35,0:21:38.55,Default,,0,0,0,,Çünkü kendini nasıl özgür kılabileceğini biliyorum.
+Dialogue: 10,0:21:38.55,0:21:39.21,Default,,0,0,0,,Ha?
+Dialogue: 10,0:21:39.68,0:21:43.39,Default,,0,0,0,,Ayrıca, seni bayağıdır tanıyorum.
+Dialogue: 10,0:21:44.78,0:21:48.72,Default,,0,0,0,,Seni kurtarmaya geldim.
+Dialogue: 10,0:21:56.51,0:21:58.50,Default,,0,0,0,,Proje'ye Hoş Geldin!
+Dialogue: 10,0:23:30.69,0:23:31.99,Default,,0,0,0,,Kaçmamam gerek!
+Dialogue: 10,0:23:31.99,0:23:33.16,Default,,0,0,0,,Bu Hitomi'nin bir ricası.
+Dialogue: 10,0:23:33.16,0:23:35.66,Default,,0,0,0,,Senaryoyu sen yazabilirsin, di'mi?!
+Dialogue: 10,0:23:35.66,0:23:38.32,Default,,0,0,0,,Sonraki bölüm, "Yaratıcıya Hoş Geldin!"
+Dialogue: 0,0:01:45.72,0:01:49.59,signs,,0,0,0,,{\c&H81725D&}Komplo
+Dialogue: 0,0:06:10.48,0:06:14.49,signs,,0,0,0,,Mita Apartmanı
+Dialogue: 0,0:08:12.81,0:08:14.54,signs,,0,0,0,,{\pos(346.247,114.75)\fax-0.05\frz16.14}Banka Hesabı
+Dialogue: 0,0:08:12.81,0:08:14.54,signs,,0,0,0,,{\pos(1040.953,40.5)\fax-0.05\frz16.17}Bakiye
+Dialogue: 0,0:08:18.91,0:08:20.18,signs,,0,0,0,,{\pos(962.265,456.75)\fax0.35\frz334.6}Sato
+Dialogue: 0,0:10:03.10,0:10:03.68,signs,,0,0,0,,Japonya
+Dialogue: 0,0:10:04.06,0:10:04.82,signs,,0,0,0,,Sosyal-Feshediliş
+Dialogue: 0,0:10:05.20,0:10:05.95,signs,,0,0,0,,Kurumu
+Dialogue: 0,0:09:19.05,0:09:20.81,signs,,0,0,0,,{\pos(964.503,738)}Nakajima Shigeo Tarafından{**-kun}
+Dialogue: 0,0:09:23.11,0:09:24.61,signs,,0,0,0,,Pururin, Dönüşümlü Sihirli Kız
+Dialogue: 0,0:12:42.37,0:12:43.71,signs,,0,0,0,,Zamanı Geldi! Uyanın!\N{\fs54}Eve-Kapanıklar için Özel Araştırma
+Dialogue: 0,0:12:44.71,0:12:46.79,signs,,0,0,0,,NEETlerin sayısı gittikçe artıyor!\NPeki sen iyi misin?
+Dialogue: 0,0:14:59.52,0:15:01.51,signs,,0,0,0,,{\pos(568.396,35.505)}Uyanın!
+Dialogue: 0,0:14:59.52,0:15:01.51,signs,,0,0,0,,{\pos(1476.458,80.01)}Eleman Aranıyor, Manga Kafe\NSaatliğine 800 Yen
+Dialogue: 0,0:16:31.50,0:16:33.51,signs,,0,0,0,,Manga Kafe
+Dialogue: 0,0:20:21.03,0:20:22.70,signs,,0,0,0,,{\pos(647.622,231.143)}bu gece 9:00'da.
+Dialogue: 0,0:21:53.96,0:21:55.96,signs,,0,0,0,,Proje
+Dialogue: 0,0:21:55.96,0:21:59.97,signs,,0,0,0,,{\3c&H00000E&\c&H00000E&\t(22,2983,\3c&H00000E&\c&H00000E&)\t(2983,3984,\3c&H00000E&\c&H00000E&)\fnBarthowheel\fs109.125\blur1.8\pos(959.973,200.25)\b0}Bölüm 01\N\N\N\N\N\N\N\N{\3c&H00000E&\c&H00000E&\t(22,2983,\3c&H00000E&\c&H00000E&)\t(2983,3984,\3c&H00000E&\c&H00000E&)}Proje'ye Hoş Geldiniz!
+Dialogue: 1,0:21:55.96,0:21:59.97,signs,,0,0,0,,{\bord0\c&H0E0A51&\t(22,2983,\c&H554AE1&)\t(2983,3984,\c&H5F52FF&)\fnBarthowheel\fs109.125\blur1.8\pos(959.973,200.25)\4a&HFF&\b0}Episode 01\N\N\N\N\N\N\N\N{\c&H0E0A51&\t(22,2983,\c&H2D1EE3&)\t(2983,3984,\c&H4025FF&)}Welcome to the Project!
+Dialogue: 0,0:23:35.66,0:23:40.00,signs,,0,0,0,,{\3c&H00000E&\c&H00000E&\fnBarthowheel\fs109.125\blur1.35\pos(962.211,168.75)\b0}Sonraki Bölüm\N\N\N\N\N\N\N\N{\3c&H00000E&\c&H00000E&}Yaratıcı'ya Hoş Geldiniz!
+Dialogue: 1,0:23:35.66,0:23:40.00,signs,,0,0,0,,{\bord0\c&HCF9D44&\fnBarthowheel\fs109.125\blur1.35\pos(962.211,168.75)\4a&HFF&\b0}Sonraki Bölüm\N\N\N\N\N\N\N\N{\c&HB47100&}Yaratıcı'ya Hoş Geldiniz!
+Dialogue: 0,0:00:12.82,0:00:16.03,OP,,0,0,0,,Göğe bakar düşünürüm{少し見上げた空}
+Dialogue: 0,0:00:16.03,0:00:19.07,OP,,0,0,0,,Hayatım ne vakit dibi boylayacak{出来過ぎた日常}
+Dialogue: 0,0:00:19.07,0:00:24.20,OP,,0,0,0,,Sırtımı semaya dönmeden iç çekerim{背を向ける度に　呟くだけ}
+Dialogue: 0,0:00:24.20,0:00:27.79,OP,,0,0,0,,Nereye döner isem de{どこに行けばいいの？}
+Dialogue: 0,0:00:27.79,0:00:33.10,OP,,0,0,0,,Özellikle sen öyle bakarken bana{そんな顔してる君と}
+Dialogue: 0,0:00:37.14,0:00:39.12,OP,,0,0,0,,Gölgeler sokak arakalarında{路地裏の陰}
+Dialogue: 0,0:00:39.12,0:00:42.32,OP,,0,0,0,,Akrep ve yelkovan gibi{時計の針が}
+Dialogue: 0,0:00:42.92,0:00:49.39,OP,,0,0,0,,İlerlemeyen zamana bir çekidüzen{止まった時間を　塗り替えて}
+Dialogue: 0,0:00:50.15,0:00:57.50,OP,,0,0,0,,Ellerimi bir arada dahi kalamayan bir bulmacaya uzatıyorum{差し延べた両手　噛み合わないパズルを}
+Dialogue: 0,0:00:58.78,0:01:05.90,OP,,0,0,0,,Öylece kalabilirim, bir olacağımız güne dek{置き去りにしてた　二人出会うまで}
+Dialogue: 0,0:01:06.96,0:01:10.24,OP,,0,0,0,,Ve kaybettiğimiz o son{失くしてた何か}
+Dialogue: 0,0:01:10.24,0:01:18.12,OP,,0,0,0,,Parçayı bulmayı{最後のかけらを 取り戻して}
+Dialogue: 0,0:01:19.93,0:01:24.26,OP,,0,0,0,,Ve yeni yollara çıkmayı beklerim{歩き出そう}
+Dialogue: 0,0:01:30.00,0:01:30.04,OP,chptr,0,0,0,,{Episode}
+Dialogue: 0,0:21:59.97,0:22:00.01,OP,chptr,0,0,0,,{ED}
+Dialogue: 0,0:22:12.37,0:22:15.35,OP,,0,0,0,,Hebele hübele hebele, dans eden çocuk adam!
+Dialogue: 0,0:22:21.45,0:22:24.36,OP,,0,0,0,,Doğduğumuzda, çırılçıpılak olsak
+Dialogue: 0,0:22:24.36,0:22:27.38,OP,,0,0,0,,Hepimiz biriz, çok seveceniz
+Dialogue: 0,0:22:27.38,0:22:30.27,OP,,0,0,0,,Ama nedense, hayat devam ettikçe
+Dialogue: 0,0:22:30.27,0:22:33.28,OP,,0,0,0,,Acımasızlık kontorlü eline alınca kaderlerimiz ayrılıverir
+Dialogue: 0,0:22:33.28,0:22:34.91,OP,,0,0,0,,Bazıları diğerlerine bakabilir
+Dialogue: 0,0:22:34.91,0:22:36.38,OP,,0,0,0,,Bazıları bakamaz
+Dialogue: 0,0:22:36.38,0:22:37.74,OP,,0,0,0,,Bazıları sevmeyi öğrenebilir
+Dialogue: 0,0:22:37.74,0:22:39.21,OP,,0,0,0,,Bazıları öğrenemez
+Dialogue: 0,0:22:39.21,0:22:40.84,OP,,0,0,0,,Ölene dek
+Dialogue: 0,0:22:40.84,0:22:42.29,OP,,0,0,0,,Ölene dek
+Dialogue: 0,0:22:42.29,0:22:45.44,OP,,0,0,0,,Çocuk, çocuk adam olurum ben de
+Dialogue: 0,0:22:45.44,0:22:51.48,OP,,0,0,0,,"Aman, ne de şirin bi bebek!"
+Dialogue: 0,0:22:51.48,0:22:57.42,OP,,0,0,0,,"Sadece seni sevmek isterim!"
+Dialogue: 0,0:22:54.35,0:22:55.86,OP,,0,0,0,,{\3c&H16167E&}Tam da planladığım gibi!
+Dialogue: 0,0:22:55.86,0:22:57.42,OP,,0,0,0,,{\3c&H16167E&}Mükemmel gidiyor!
+Dialogue: 0,0:22:57.42,0:23:00.33,OP,,0,0,0,,Tuttuğu bebek gerçek bir çocuk adam
+Dialogue: 0,0:23:00.33,0:23:03.33,OP,,0,0,0,,"Hebele!" hıçkırır yapmacık masumluğumu korurum
+Dialogue: 0,0:23:03.33,0:23:06.30,OP,,0,0,0,,Çocuk adam olmak çok kolay, bu yüzden sen de öyle ol!
+Dialogue: 0,0:23:06.30,0:23:09.04,OP,,0,0,0,,Hebele hübele! Dans et, çoğal ve uzaya var!
+Dialogue: 0,0:23:09.04,0:23:09.77,OP,,0,0,0,,Marsa
+Dialogue: 0,0:23:09.77,0:23:10.52,OP,,0,0,0,,Satürne
+Dialogue: 0,0:23:10.52,0:23:11.32,OP,,0,0,0,,Tüm galaksiye!
+Dialogue: 0,0:23:11.32,0:23:12.07,OP,,0,0,0,,Dans et!
+Dialogue: 0,0:23:12.07,0:23:13.55,OP,,0,0,0,,Çocuk adam!
+Dialogue: 0,0:23:13.55,0:23:14.24,OP,,0,0,0,,Dans et!
+Dialogue: 0,0:23:14.24,0:23:16.23,OP,,0,0,0,,Çocuk adam!
+Dialogue: 0,0:23:29.99,0:23:30.03,OP,chptr,0,0,0,,{Preview}
+Dialogue: 0,0:23:40.17,0:23:42.17,Default,,0,0,0,,
